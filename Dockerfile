@@ -1,5 +1,5 @@
 ##Miflora-mqtt-daemon  Docker image
-#Builds compact image to run as an alternative to installing the modules/service.  
+#Builds compact image to run as an alternative to installing the modules/service.
 
 # The build image
 FROM python:3.10.7-slim as builder
