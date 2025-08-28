@@ -108,5 +108,9 @@ ENV/
 # mkdocs documentation
 /site
 
+# devel stuff
+.vscode
+.ansible
+
 # End of https://www.gitignore.io/api/python
 
